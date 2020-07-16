@@ -84,6 +84,18 @@ body {
     animation: motor 20s linear infinite;
 }
 
+.mobil-4 {
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: contain;
+    max-width: 130px;
+    bottom: 5%;
+    -webkit-animation: motor 11s linear infinite;
+    -moz-animation: motor 11s linear infinite;
+    -o-animation: motor 11s linear infinite;
+    animation: motor 11s linear infinite;
+}
+
 @keyframes bus {
     0% {
         transform: translate(1400px);
