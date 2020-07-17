@@ -15,7 +15,7 @@ body {
 }
 
 .landpage {
-    background: url("../../home/img//landing/background-1.jpg");
+    background: url("../../home/img//landing/background-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -101,10 +101,10 @@ body {
         transform: translate(1400px);
     }
     50% {
-        transform: translate(230px);
+        transform: translate(100px);
     }
     70% {
-        transform: translate(230px);
+        transform: translate(100px);
     }
     100% {
         transform: translate(-500px);
